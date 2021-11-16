@@ -11,12 +11,12 @@ Welcome to my Github. My name is Nicholas(DevMashup). This is gonna be the place
 
 #### Things to do
 
-~~Create my first game~~
-Make a game where you are a reptile fanatic and you have to crossbreed reptiles, take care of them, find new reptiles out in the wild and more
-- [ ] Make website for each of my Mashup subsidairies 
-- [ ] Create a website where it focuses on equitarianism
-- [ ] Help create other people's website if asked
-- [ ] Create a JavaFX application using eclipse
-- [ ] Create an OS
-- [ ] Make a cryptocurrency
-- [ ] Make Robots
+- **~~Create my first game~~**
+- **Make a game where you are a reptile fanatic and you have to crossbreed reptiles, take care of them, find new reptiles out in the wild and more**
+- **Make website for each of my Mashup subsidairies**
+- **Create a website where it focuses on equitarianism**
+- **Help create other people's website if asked**
+- **Create a JavaFX application using eclipse**
+- **Create an OS**
+- **Make a cryptocurrency**
+- **Make Robots**
