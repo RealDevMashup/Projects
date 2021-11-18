@@ -20,3 +20,9 @@ Welcome to my Github. My name is Nicholas(DevMashup). This is gonna be the place
 - **Create an OS**
 - **Make a cryptocurrency**
 - **Make Robots**
+- **Make a planet with stars around it in ThreeJS**
+- **Make a game in eclipse**
+- **Create a video-sharing platform(Youtube clone)**
+- **Create a browser engine**
+- **Create a browser application**
+- **Create a search engine**
