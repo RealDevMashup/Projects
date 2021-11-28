@@ -33,4 +33,6 @@ Welcome to my Github. My name is Nicholas(DevMashup). This is gonna be the place
 - **Make a programming language/Css-like(Css?)**
 - **Make a unity game about the astral realm and a spirituality**
 - **Create a game every week or so and upload it to some kind f storage website and release it to patreon**
-- **Create a website where I sell aquatic creatures and plants and(make fish tanks)?**
+- **Create a website where I sell aquatic creatures and plants and(make fish tanks?)**
+- **Create a Image manipulation software**
+- **Create a video editing software**
